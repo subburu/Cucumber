@@ -1,0 +1,27 @@
+Step1 : Create a Maven Project 
+Step2 : Add Maven dependencies 
+Step3 : Create a folder features under src/test/resources
+Step4 : Under features folder create a new feature file login.feature
+Step5 :  Install cucumber plugin  and natural plugin 
+Step6 : Create a feature file and add contents 
+Step7 : Run the feature file
+Step8 : Add Step Definitions /Glue code under src/test/java package
+Step9 : Create a Run class 
+
+
+
+
+
+Feature 
+Scenario 
+Steps 
+Scenario Outline 
+Example 
+Tags 
+Comments
+
+
+
+
+
+
